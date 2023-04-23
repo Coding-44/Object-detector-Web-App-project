@@ -1,0 +1,56 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+button.bedroom {
+    border-radius: 20%;
+    width: 200px;
+    height: 40px;
+    border-color: white;
+  }
+
+  button.pillow {
+    border-radius: 20%;
+    width: 200px;
+    height: 40px;
+    border-color: white;
+  }
+  
+  button.tv {
+    border-radius: 20%;
+    width: 200px;
+    height: 40px;
+    border-color: white;
+  }
+  button.bottles {
+    border-radius: 20%;
+    width: 200px;
+    height: 40px;
+    border-color: white;
+  }
+  button.laptop {
+    border-radius: 20%;
+    width: 200px;
+    height: 40px;
+    border-color: white;
+  }
